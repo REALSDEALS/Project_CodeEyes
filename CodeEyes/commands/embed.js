@@ -8,8 +8,8 @@ module.exports = {
         .setURL('https://www.discord.com/') /* <--- You can add a link to the message*/
         .setDescription('This embeds gives out an embedded message, so it looks nice and slick.')
         .addFields(
-            {name: 'Regel 1', value: 'Enter what you want on rule 1'},
-            {name: 'Regel 2', value: 'Here you can enter something you would like to'}
+            {name: 'Rule/Line 1', value: 'Enter what you want on rule 1'},
+            {name: 'Rule/Line 2', value: 'Here you can enter something you would like to'}
             /*You can add more rules, by following the same line of code that you can see above this text*/
         )
         .setImage('Here you can enter an HTTPS link, to show a image on the message')
